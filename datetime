@@ -1,6 +1,6 @@
 import java.util.*;
 import java.time.*;
-public class hi
+public class datetime
 {
        public static void main(String args[])
     {
