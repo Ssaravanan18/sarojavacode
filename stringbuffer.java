@@ -20,8 +20,9 @@ class stringbuffer
         System.out.println("substring :"+sb.substring(2,5));
         System.out.println("each character:" +sb.charAt(5));
         StringBuffer sk=new StringBuffer("universe");
-        sk.setCharAt(5,"#");
+        sk.setCharAt(5,'#');
         System.out.println(sk);
 
     }
+
 }
